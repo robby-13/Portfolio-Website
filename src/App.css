@@ -57,5 +57,8 @@ body {
 }
 
 .nav-bar a:hover {
-  color: black;
+  color: #00008B;
+  border: solid 5px #00008B;
+  border-width: 10px;
+  padding: 10px;
 }
