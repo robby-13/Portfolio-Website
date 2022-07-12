@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #B0C4DE
+}
+
+.nav-bar {
+  border: 5px hidden;
+  margin: 0;
+  padding: 25px;
+  background-color: #6495ED;
+}
+
+.nav-bar a {
+  margin: 100px;
+  text-decoration: none;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+}
+
+.nav-bar a:hover {
+  color: black;
+}
